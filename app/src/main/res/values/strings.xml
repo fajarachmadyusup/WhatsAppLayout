@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Profile</string>
+    <string name="message">This is not your username or pin. This name will be visible to your WhatsApp contacts</string>
+    <string name="my_name">4140 Fajar Achmad Yusup</string>
+    <string name="my_phone">+999 999 99199 99</string>
+    <string name="last_seen">Last seen 28/08/2016</string>
+    <string name="phone_status">Phone and Status</string>
+    <string name="title_activity_main">Main Activity</string>
+    <string name="action_settings">Settings</string>
+</resources>
